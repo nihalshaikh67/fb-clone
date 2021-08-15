@@ -31,7 +31,7 @@ const Messagesender = () => {
                             </IconButton>
                         </div>
                         <div className="modalHeader_top">
-                            <Avatar/>
+                            <Avatar src="https://media-exp1.licdn.com/dms/image/C5603AQHQxjjVGlBRnw/profile-displayphoto-shrink_100_100/0/1616425669542?e=1634774400&v=beta&t=hvgz5ChGDYr8HYNjQ3NO4VAyS7KajX-un4QrasyTtNw"/>
                             <h5>Nihal Shaikh</h5>
                         </div>
                         <div className="modalBody">
@@ -61,7 +61,7 @@ const Messagesender = () => {
 
                 <div className="messageSender_top">
 
-                    <Avatar />
+                    <Avatar src="https://media-exp1.licdn.com/dms/image/C5603AQHQxjjVGlBRnw/profile-displayphoto-shrink_100_100/0/1616425669542?e=1634774400&v=beta&t=hvgz5ChGDYr8HYNjQ3NO4VAyS7KajX-un4QrasyTtNw" />
                     <form>
                         <input type="text" placeholder="What's on your mind Nihal" onClick={handleOpen} />
                     </form>
